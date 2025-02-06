@@ -33,3 +33,4 @@ class Engineer extends Person {
 const personObj = new Person;
 const doctorObj = new Doctor("cardiologist");
 const engineerObj = new Engineer;
+console.log("Sample data")
