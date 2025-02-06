@@ -35,3 +35,4 @@ const doctorObj = new Doctor("cardiologist");
 const engineerObj = new Engineer;
 console.log("Sample data")
 console.log(personObj);
+console.log("Sample one")
