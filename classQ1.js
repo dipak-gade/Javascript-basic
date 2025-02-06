@@ -2,7 +2,7 @@ class User {
   constructor(name, email) {
     this.name = name;
     this.email = email;
-    console.log(name, email);
+    //console.log(name, email);
   }
 
   viewData() {
